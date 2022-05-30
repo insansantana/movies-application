@@ -1,0 +1,128 @@
+{
+  "bighero_sliders": [
+    { "path": "/images/slider-scale.jpg" },
+    { "path": "/images/slider-scales.jpg" },
+    { "path": "/images/slider-badag.jpg" },
+    { "path": "/images/slider-badging.jpg" }
+  ],
+  "movies": [
+    {
+      "title": "Recomended For you",
+      "images": [
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8754/1078754-v-e777e4e8f095",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5663/745663-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7438/727438-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6140/816140-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7992/727992-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4255/1074255-v-d468ff8fc19c",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1974/1011974-v-1d5b210b17d2",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/8700/1078700-v-e38721977dd4",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/335/1020335-v-16c6b2f9d574",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/5145/875145-v"
+      ]
+    },
+    {
+      "title": "New to Disney+",
+      "images": [
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9024/1079024-v-eacafa9ced0d",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/4368/1034368-v-588881918e1f",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/799/1050799-v-9946de8fcd25",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/8373/1068373-v-7652d7e0aa05",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7665/1007665-v-34100109d3e9",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/2150/1052150-v-fa2dee2e1669",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/5031/1035031-v-780e24c67bdf",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7326/727326-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/519/650519-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7186/1057186-v-769c420ebca1"
+      ]
+    },
+    {
+      "title": "Originals",
+      "images": [
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/8758/1078758-v-5712486ce8b0",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/3785/1043785-v-1227a07c36c0",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/3137/1063137-v-74ca04571e40",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/8708/1078708-v-aa5154d18a20",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5895/1075895-v-71ca59cd5ca0",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6060/846060-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7660/727660-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/9037/889037-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/4168/764168-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/old_images/vertical/MOVIE/3002/1770003002/1770003002-v"
+      ]
+    },
+    {
+      "title": "Treanding",
+      "images": [
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7314/727314-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7430/727430-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/104/930104-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7332/727332-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7736/727736-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/4285/674285-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/7809/877809-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/2686/612686-v",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/6623/1026623-v-f103e6fd5c62",
+        "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_1_5x/sources/r1/cms/prod/4595/734595-v"
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "title": "DRAMA",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/54/760054-h"
+    },
+    {
+      "title": "FAMILY",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/55/760055-h"
+    },
+    {
+      "title": "REALITY",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/2691/762691-h"
+    },
+    {
+      "title": "COMEDY",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/57/760057-h"
+    },
+    {
+      "title": "ACTION",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/58/760058-h"
+    },
+    {
+      "title": "TEEN",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/2689/762689-h"
+    },
+    {
+      "title": "WILDLIFE",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/59/760059-h"
+    },
+    {
+      "title": "DOCUMENTARY",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/60/760060-h"
+    },
+    {
+      "title": "HORROR",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/61/760061-h"
+    },
+    {
+      "title": "THRILLER",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/62/760062-h"
+    },
+    {
+      "title": "KIDS",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/67/760067-h"
+    },
+    {
+      "title": "MUSICAL",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/68/760068-h"
+    },
+    {
+      "title": "ROMANCE",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_1_5x/sources/r1/cms/prod/66/760066-h"
+    },
+    {
+      "title": "SUPERHERO",
+      "cover": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_3x/sources/r1/cms/prod/835/670835-h"
+    }
+  ]
+}
