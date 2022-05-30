@@ -28,4 +28,4 @@ const Container = tw.div`
 m-0 p-0 bg-center-top  bg-cover bg-no-repeat h-screen overflow-x-hidden
 `;
 
-const WrapHeader = tw.div``;
+const WrapHeader = tw.div`fixed z-50`;
